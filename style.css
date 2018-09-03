@@ -5,4 +5,10 @@ h1 {
 	font-family: Helvetica;
 	font-size: 100;
 	text-align: center;
+	color: white;
+}
+
+body {
+	background-color: #9C27B0;
+
 }
